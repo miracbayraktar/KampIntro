@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{28C91AA0-DED5-400E-94CE-0641F89C7701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{1E4FCB20-FB06-4886-8872-EDE1E6F2F97B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{442D2640-3676-435C-B70B-0452A35B0741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C91AA0-DED5-400E-94CE-0641F89C7701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C91AA0-DED5-400E-94CE-0641F89C7701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C91AA0-DED5-400E-94CE-0641F89C7701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C91AA0-DED5-400E-94CE-0641F89C7701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4FCB20-FB06-4886-8872-EDE1E6F2F97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4FCB20-FB06-4886-8872-EDE1E6F2F97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4FCB20-FB06-4886-8872-EDE1E6F2F97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4FCB20-FB06-4886-8872-EDE1E6F2F97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442D2640-3676-435C-B70B-0452A35B0741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442D2640-3676-435C-B70B-0452A35B0741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442D2640-3676-435C-B70B-0452A35B0741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442D2640-3676-435C-B70B-0452A35B0741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B4624C-CCFB-4C04-A5BD-15FC4D134155}
+	EndGlobalSection
+EndGlobal
